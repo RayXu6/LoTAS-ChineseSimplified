@@ -1,6 +1,8 @@
 ﻿# LoTAS Mod
 ### Low Optimization Tool Assisted Speedrun Mod
 
+LoTAS Mod 是一个全版本的TAS模组 目前只翻译了fabric的所有版本
+
 LoTAS is a Mod used to create [Tool Assisted Speedruns](https://en.wikipedia.org/wiki/Tool-assisted_speedrun). In Minecraft TASing you use a mod called Tickrate Changer to slow the game down. The Game runs at 20 ticks per second so 10 would be 50% speed.
 
 ## How do I start?
